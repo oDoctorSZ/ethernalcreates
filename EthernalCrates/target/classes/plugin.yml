@@ -1,0 +1,10 @@
+name: EthernalCrates
+version: '1.0-SNAPSHOT'
+main: ian.tomaz.ethernalcrates.EthernalCrates
+api-version: 1.18
+commands:
+  ethernalp:
+    description: Seta permissões em conjunto ao MMOITEMS e Luckperm
+  ethernalstation:
+    description: Executa comando de abrir station do MMOCORE e Executable Blocks
+
